@@ -1,0 +1,17 @@
+{
+  "name": "htdocs",
+  "homepage": "https://github.com/LeoIsaac/ppap",
+  "description": "polymer",
+  "main": "index.html",
+  "authors": [
+    "isaac"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
